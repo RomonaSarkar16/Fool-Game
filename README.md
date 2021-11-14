@@ -1,5 +1,6 @@
 # Fool-Game
-<b>Basic Game using C-Sharp<b>
+<b>Basic Game using C-Sharp</b>
+  <br>
   3 main operations 
   <ul>
     <li><i>Button 1 yes - changes color</i></li>
