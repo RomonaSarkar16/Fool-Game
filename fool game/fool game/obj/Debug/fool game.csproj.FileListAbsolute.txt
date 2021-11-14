@@ -1,0 +1,12 @@
+E:\C#\fool game\fool game\bin\Debug\fool game.exe.config
+E:\C#\fool game\fool game\bin\Debug\fool game.exe
+E:\C#\fool game\fool game\bin\Debug\fool game.pdb
+E:\C#\fool game\fool game\obj\Debug\fool game.csproj.AssemblyReference.cache
+E:\C#\fool game\fool game\obj\Debug\fool_game.Form1.resources
+E:\C#\fool game\fool game\obj\Debug\fool_game.Properties.Resources.resources
+E:\C#\fool game\fool game\obj\Debug\fool game.csproj.GenerateResource.cache
+E:\C#\fool game\fool game\obj\Debug\fool game.csproj.CoreCompileInputs.cache
+E:\C#\fool game\fool game\obj\Debug\fool game.exe
+E:\C#\fool game\fool game\obj\Debug\fool game.pdb
+E:\C#\fool game\fool game\obj\Debug\fool_game.Form2.resources
+E:\C#\Fool Game\fool game\obj\Debug\fool_game.Form3.resources
